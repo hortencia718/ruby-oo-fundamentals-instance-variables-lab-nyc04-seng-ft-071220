@@ -17,7 +17,7 @@ puts lassie.name
 
 
 
-
+# make it gobal scope add @inside of the class method !
 
 #  am creating a class "dog"
 # am defining that class to a variable "name and am setting that name witha argument/parameter of "dog_name.
