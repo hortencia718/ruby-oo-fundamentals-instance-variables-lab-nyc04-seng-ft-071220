@@ -18,4 +18,5 @@ end
 
 #  am creating a class "dog"
 # am defining that class to a variable "name and am setting that name witha argument/parameter of "dog_name.
-# then i am setting "this_dogs_name" to equal to "dog_name".
+# then i am creating another def to the method of "this_dogs_name
+# setting "this_dogs_name" to equal to "dog_name".
